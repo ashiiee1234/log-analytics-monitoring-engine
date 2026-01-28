@@ -1,0 +1,9 @@
+ dask[dataframe]
+ dask[distributed]
+ pandas
+ fastapi
+ uvicorn
+ mysql-connector-python
+ streamlit
+ plotly
+ secure-smtplib
