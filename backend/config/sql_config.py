@@ -6,7 +6,7 @@ def connect_sql():
         connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Rohan@54321",
+        password="Ashi@54321",
         database="springboard",
         port=3306
     )
