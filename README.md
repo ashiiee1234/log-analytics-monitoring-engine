@@ -1,11 +1,11 @@
 # 🚀 Execution Commands
 Run these commands in order to start the project:
 
-** Generate Logs: python log_generation/log_generator.py
+* **Generate Logs**: python log_generation/log_generator.py
 
-** Process Data: python main.py
+* **Process Data**: python main.py
 
-** Launch Dashboard: streamlit run dashboard/app.py
+* **Launch Dashboard**: streamlit run dashboard/app.py
 
 ___
 
@@ -17,17 +17,17 @@ This project demonstrates a simple end-to-end logging pipeline that mimics a rea
 ___
 
 ## 🛠️ Features
-** Real-time log generation to simulate live system activity
+* Real-time log generation to simulate live system activity
 
-** Efficient ingestion and processing of large log volumes
+* Efficient ingestion and processing of large log volumes
 
-** Conversion of raw logs into structured CSV output
+* Conversion of raw logs into structured CSV output
 
-** Backend modules for parsing, filtering, and aggregation
+* Backend modules for parsing, filtering, and aggregation
 
-** Interactive dashboard built with Streamlit for visualization
+* Interactive dashboard built with Streamlit for visualization
 
-** Modular and extensible design for easy customization and scaling
+* Modular and extensible design for easy customization and scaling
 
 ---
 
