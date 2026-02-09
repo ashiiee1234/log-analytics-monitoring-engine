@@ -27,7 +27,7 @@ ___
 
 * Interactive Analytics Dashboard: A comprehensive Streamlit interface for visualizing log trends, pie charts of system activity, and anomaly tracking.
 
-* Agile Project Management: Development tracked through structured sprints, user stories, and MoSCoW prioritization, documented in the included Agile Template.
+* Agile Project Management: Development tracked through structured sprints, user stories, and MoSCoW prioritization, documented in the included **AGILE TEMPLATE**.
 
 * Interactive dashboard built with Streamlit for visualization
 
