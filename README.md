@@ -17,13 +17,17 @@ This project demonstrates a simple end-to-end logging pipeline that mimics a rea
 ___
 
 ## 🛠️ Features
-* Real-time log generation to simulate live system activity
+* Real-time Ingestion & Parsing: Collects and normalizes system logs from distributed sources using Python logging and Regex for high-fidelity data extraction.
 
-* Efficient ingestion and processing of large log volumes
+* Distributed Processing Pipeline: Leverages Dask and Ray frameworks for parallel log analysis, ensuring the engine can handle high-throughput, large-scale system data.
 
-* Conversion of raw logs into structured CSV output
+* Anomaly Detection Core: Implements statistical models, including Z-score calculations, to identify unusual behavior and potential system failures in real-time.
 
-* Backend modules for parsing, filtering, and aggregation
+* Alerting & Notification Hub: Integrated system for triggering automated alerts via Email (SMTP) or Webhooks when critical anomalies are detected.
+
+* Interactive Analytics Dashboard: A comprehensive Streamlit interface for visualizing log trends, pie charts of system activity, and anomaly tracking.
+
+* Agile Project Management: Development tracked through structured sprints, user stories, and MoSCoW prioritization, documented in the included Agile Template.
 
 * Interactive dashboard built with Streamlit for visualization
 
